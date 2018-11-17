@@ -1,4 +1,5 @@
-# My modifications 1
+# My modifications
+#1
 # Program to display the Fibonacci sequence up to n-th term where n is provided by the user
 
 # change this value for a different result
